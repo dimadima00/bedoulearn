@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>BedouLearn - الصفحة الرئيسية</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="home">
+  <header>
+    <h1>BedouLearn</h1>
+    <p>جسر المعرفة بين البادية والعالم</p>
+    <nav>
+      <a href="learner.html">ابدأ التعلم</a>
+      <a href="teacher.html">سجل كمعلم</a>
+    </nav>
+  </header>
+</body>
+</html>
